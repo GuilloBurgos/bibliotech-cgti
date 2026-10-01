@@ -1,0 +1,6 @@
+{
+  "name": "BiblioTech · BibliotecaCGTI",
+  "description": "Sistema Integral de Gestión de Préstamos de Libros, Catálogo General Institucional, Circulación y Gobernanza RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
